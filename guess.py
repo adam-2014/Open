@@ -16,6 +16,7 @@ def main():
         else:
             print("you got it in ", count, "tries")
             break
+print("change 1")
 
 if __name__ == "__main__":
     main()
